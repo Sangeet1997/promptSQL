@@ -18,7 +18,7 @@ PromptSQL is a tool that enables users to easily create a database from CSV file
    ```
 2. Install dependencies:
    ```sh
-   pip install pandas sqlite3 ollama tabulate
+   pip install -r requirements.txt
    ```
 3. Ensure you have LLaMA 3.2 installed and running.
 
